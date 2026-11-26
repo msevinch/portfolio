@@ -10,7 +10,7 @@
 ### • Gain internship experience
 ### • Learn something new
 ## Languages that i speak:
-# English, Ukrainian, Azerbaijani 
+### English, Ukrainian, Azerbaijani 
 # Projects:
 <img width="2365" height="1495" alt="Знімок екрана 2026-11-26 203732" src="https://github.com/user-attachments/assets/4883aa0a-51d0-4b05-ba31-401880f5bea1" />
 
