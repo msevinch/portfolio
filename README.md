@@ -6,6 +6,6 @@
 ## Design:
 ### Canva, Photopea, Figma, Blender, GIMP
 ## Goals
-### Build my portfolio
-### Gain internship experience
-### learn something new
+### • Build my portfolio
+### • Gain internship experience
+### • Learn something new
