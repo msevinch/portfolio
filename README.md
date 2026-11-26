@@ -1,3 +1,3 @@
-### My Postfolio
+# My Portfolio
 ## About me
-# I am a second-year Web-Application student.
+### I am a second-year Web-Application student.
