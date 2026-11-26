@@ -12,7 +12,8 @@
 ## Languages that i speak:
 ### English, Ukrainian, Azerbaijani 
 # Projects:
-<img width="2365" height="1495" alt="Знімок екрана 2026-11-26 203732" src="https://github.com/user-attachments/assets/4883aa0a-51d0-4b05-ba31-401880f5bea1" />
+<img width="2307" height="1407" alt="Знімок екрана 2026-11-26 205552" src="https://github.com/user-attachments/assets/48ea536e-2871-442a-bcf9-f23ec4704bce" />
+
 
 [Sevinch_Mamedova_MMA_PDF (2).pdf](https://github.com/user-attachments/files/35478134/Sevinch_Mamedova_MMA_PDF.2.pdf)
 
